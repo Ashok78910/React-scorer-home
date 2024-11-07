@@ -10,8 +10,7 @@ Before you begin, make sure you have the following installed on your machine:
 
 Steps to Run the App Locally
 
-git clone <repository-url>
-cd <project-folder>
+git clone repository-url
 
  Install Dependencies
 npm install
