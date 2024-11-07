@@ -20,4 +20,6 @@ npm start
 
 App running on http://localhost:3000 by default.
 
+live link - https://ashok78910.github.io/React-scorer-home/
+
 
