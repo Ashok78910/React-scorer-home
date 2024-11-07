@@ -1,0 +1,39 @@
+/* If necessary for additional styling */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.title-container {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.save-button-container {
+  display: inline-block; /* Makes the buttons appear side by side */
+  margin-right: 10px; /* Adds space between buttons */
+}
+
+.save-button {
+  border: 1px solid #000;
+  background: #fff;
+  box-shadow: 2px 2px 2px 0.5px #000;
+  padding: 7px 22px;
+  font-size: 16px;
+  transition: all ease 0.5s;
+  cursor: pointer;
+}
+
+.save-button:hover {
+  transform: scale(0.96);
+  box-shadow: 1px 1px 0px 0.5px #000;
+}
+
+.editor-style {
+  border-radius: 4px;
+  min-height: 200px;
+  border: 2px solid #add8e6;
+  padding: 10px;
+}
