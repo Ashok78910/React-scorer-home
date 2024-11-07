@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-scorer-home/static/css/main.9df0c175.css",
+    "main.js": "/React-scorer-home/static/js/main.1ddadd57.js",
+    "index.html": "/React-scorer-home/index.html",
+    "main.9df0c175.css.map": "/React-scorer-home/static/css/main.9df0c175.css.map",
+    "main.1ddadd57.js.map": "/React-scorer-home/static/js/main.1ddadd57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df0c175.css",
+    "static/js/main.1ddadd57.js"
+  ]
+}
